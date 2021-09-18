@@ -98,7 +98,17 @@ a {
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: none;
+    padding: 10px 187px 10px 187px;
 }
+
+
+ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
 
 
 
